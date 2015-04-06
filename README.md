@@ -2,4 +2,4 @@
 
 ### details
 
-hello world
+checkout the [wiki](https://github.com/c-rindi/test/wiki) 
